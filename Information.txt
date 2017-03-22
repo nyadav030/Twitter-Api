@@ -1,0 +1,13 @@
+This is in reference for twitter api
+
+Before starting this application please Insert the following in index.php file :-
+1.Consumer Key (API Key)
+2.Consumer Secret (API Secret)
+3.Access Token
+4.Access Token Secret
+
+
+    $consumerkey = "";  //Consumer Key (API Key)
+    $consumersecret = "";   //Consumer Secret (API Secret)
+    $accesstoken = "";   //Access Token 
+    $accesstokensecret = "";   //Access Token Secret 
